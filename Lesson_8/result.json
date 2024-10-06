@@ -1,0 +1,98 @@
+[
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/Task_8_3.py",
+        "type": "file",
+        "size": 978,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/Task_8_2.py",
+        "type": "file",
+        "size": 815,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/Task_8_6.py",
+        "type": "file",
+        "size": 599,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/users.csv",
+        "type": "file",
+        "size": 48,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/__init__.py",
+        "type": "file",
+        "size": 315,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/users.json",
+        "type": "file",
+        "size": 171,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/new_users.csv",
+        "type": "file",
+        "size": 157,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/Task_8_7_HW.py",
+        "type": "file",
+        "size": 2660,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/new_users.pickle",
+        "type": "file",
+        "size": 166,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/new_users.json",
+        "type": "file",
+        "size": 365,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/users.pickle",
+        "type": "file",
+        "size": 95,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/Task_8_1.py",
+        "type": "file",
+        "size": 1297,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/Task_8_5.py",
+        "type": "file",
+        "size": 577,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/Task_8_4.py",
+        "type": "file",
+        "size": 672,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/Test_dir_for_HW",
+        "type": "directory",
+        "size": 8931,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8"
+    },
+    {
+        "path": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/Test_dir_for_HW/Test_file_for_HW",
+        "type": "file",
+        "size": 16,
+        "parent_directory": "/Users/sergejsidorenko/Code/Python/Python advanced/Lesson_1/Lesson_8/Test_dir_for_HW"
+    }
+]
